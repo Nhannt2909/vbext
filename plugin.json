@@ -10,7 +10,7 @@
       "path": "https://raw.githubusercontent.com/Nhannt2909/vbext/refs/heads/main/truyendichmienphi/plugin.zip",
       "version": 1,
       "source": "https://truyendichmienphi.com/truyen",
-      "icon": "https://cdn-icons-png.flaticon.com/512/3145/3145765.png",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/icon.png",
       "description": "Đọc truyện trên trang bachngocsach.cc/reader",
       "type": "novel",
       "locale": "vi_VN"
