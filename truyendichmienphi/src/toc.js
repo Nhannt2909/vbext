@@ -13,11 +13,14 @@ function execute(url) {
 	const list = [];
 
 	data.results.forEach((toc) => {
+		const title = toc.title.replace(/^Chương\s*\d+\s*:\s*/i, "");
+
 		list.push({
-			name: `Chap ${toc.chapter_number}: ${toc.title}`,
+			name: `Chap ${toc.chapter_number}: ${title}`,
 			url: `${apiURL}/chapter/${toc.chapter_number}`,
 			host: BASE_URL,
 		});
+
 	});
 
 	return Response.success(list);
