@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "nhannt2909",
+    "description": ""
+  },
+  "data": [
+     {
+      "name": "Motchill",
+      "author": "nhannt2909",
+      "path": "https://raw.githubusercontent.com/Nhannt2909/vbext/refs/heads/main/motchill/plugin.zip",
+      "version": 1,
+      "source": "https://motchillk.you/",
+      "icon": "https://raw.githubusercontent.com/Nhannt2909/vbext/refs/heads/main/motchill/icon.png",
+      "description": "Xem phim online Vietsub, thuyet minh tren Motchill",
+      "locale": "vi_VN",
+      "type": "video"
+    }
+  ]
+}
